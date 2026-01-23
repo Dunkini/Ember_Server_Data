@@ -1,0 +1,9 @@
+[
+    {
+        "ImageName": "Test.jpg",
+        "Message": "This is in beta.",
+        "PlatformMask": -1,
+        "RoomNames": [],
+        "Title": "Welcome to Ember Localhost Server"
+    }
+]
