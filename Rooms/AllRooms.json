@@ -3047,7 +3047,7 @@
           "SubRoomId": 52,
           "RoomId": 45,
           "Name": "Home",
-          "DataBlob": "TestRoom.room",
+          "DataBlob": "",
           "IsSandbox": true,
           "MaxPlayers": 20,
           "Accessibility": 2,
