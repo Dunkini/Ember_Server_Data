@@ -1,0 +1,23 @@
+{
+  "FeaturedPlayer": {
+    "Id": 1,
+    "TitleOverride": null,
+    "UrlOverride": null
+  },
+  "FeaturedRoomGroup": {
+    "FeaturedRoomGroupId": 0,
+    "Name": null,
+    "Rooms": [],
+    "FeaturedRooms": []
+  },
+  "CurrentAnnouncement": {
+    "Message": "Welcome to Ember!",
+    "MoreInfoUrl": null
+  },
+  "InstagramImages": [
+    {
+      "ImageName": "cat.png"
+    }
+  ],
+  "Videos": []
+}
