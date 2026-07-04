@@ -1,22 +1,23 @@
 {
   "FeaturedPlayer": {
     "Id": 1,
-    "TitleOverride": null,
+    "TitleOverride": "coach?",
     "UrlOverride": null
   },
   "FeaturedRoomGroup": {
-    "FeaturedRoomGroupId": 0,
-    "Name": null,
+    "FeaturedRoomGroupId": 1,
+    "Name": "yez",
     "Rooms": [],
     "FeaturedRooms": []
   },
   "CurrentAnnouncement": {
     "Message": "Welcome to Ember!",
-    "MoreInfoUrl": null
+    "MoreInfoUrl": ""
   },
   "InstagramImages": [
     {
-      "ImageName": "cat.png"
+      "ImageName": "cat.png",
+      "ImageUrl": null
     }
   ],
   "Videos": []
