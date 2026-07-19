@@ -20,5 +20,13 @@
       "ImageUrl": null
     }
   ],
-  "Videos": []
+  "Videos": [
+    {
+      "BlobName": "caac.mp4",
+      "Title": "JUMP in the CAAC extended (lyric video)",
+      "Description": "",
+      "ThumbnailBlobName": "VidThumbnails/Caac.png",
+      "SourceUrl": "http://www.youtube.com/watch?v=QHLZvWxIABU"
+    }
+  ]
 }
